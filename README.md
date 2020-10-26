@@ -9,9 +9,7 @@
 2. [Introduction](#introduction)
 3. [Project Motivation](#motivation)
 4. [Files](#files)
-5. [Instructions](#instructions)
-6. [Results](#results)
-7. [Licensing, Authors, and Acknowledgements](#licensing)
+
 
 
 ## Installation <a name="installation"></a>
